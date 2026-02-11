@@ -45,7 +45,7 @@ export default function About() {
             </div>
             <div>
               <img
-                src="https://images.unsplash.com/photo-1556742031-c6961e8560b0?w=600&h=400&fit=crop"
+                src="/images/about/store.jpg"
                 alt="Customers shopping at our store"
                 className="rounded-lg shadow-lg w-full"
               />
