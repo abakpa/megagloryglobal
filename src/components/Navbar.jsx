@@ -22,7 +22,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 font-bold text-xl" onClick={closeMobile}>
             <span className="text-accent">MEGA GLORY</span>
-            <span className="hidden sm:inline">GLOBAL RESOURCES</span>
+            <span> GLOBAL RESOURCES</span>
           </Link>
 
           {/* Desktop Nav */}
