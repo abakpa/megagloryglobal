@@ -115,7 +115,8 @@ export default function Contact() {
                 <div className="space-y-3 text-gray-600">
                   <p className="flex items-start gap-2">
                     <FaMapMarkerAlt className="text-accent mt-1 shrink-0" />
-                    Jalingo, Taraba State, Nigeria
+                    No. 1 Hospital Road, Takum Taraba State, Nigeria
+
                   </p>
                   <p className="flex items-center gap-2">
                     <FaPhone className="text-accent shrink-0" />
@@ -129,11 +130,12 @@ export default function Contact() {
                 <div className="space-y-3 text-gray-600">
                   <p className="flex items-start gap-2">
                     <FaMapMarkerAlt className="text-accent mt-1 shrink-0" />
-                    Owerri, Imo State, Nigeria
+                    No. 25 Timber Market Road, Naze Owerri North, Imo State, Nigeria
+
                   </p>
                   <p className="flex items-center gap-2">
                     <FaPhone className="text-accent shrink-0" />
-                    <a href="tel:+2347035792936" className="hover:text-primary">+234 703 579 2936</a>
+                    <a href="tel:+2347069060982" className="hover:text-primary">+234 706 906 0982</a>
                   </p>
                 </div>
               </div>
