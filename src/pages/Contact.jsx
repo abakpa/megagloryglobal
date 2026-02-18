@@ -157,11 +157,11 @@ export default function Contact() {
                 </div>
               </div>
 
-              {/* Map placeholder */}
+              {/* Map - Takum, Taraba State */}
               <div className="bg-white rounded-lg shadow-md overflow-hidden">
                 <iframe
-                  title="Office Location"
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d252461.66440813085!2d11.2!3d8.89!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10536400c7e5c5e1%3A0x94e6e728a85f0b10!2sJalingo%2C%20Taraba%20State!5e0!3m2!1sen!2sng!4v1700000000000"
+                  title="Office Location - Takum, Taraba State"
+                  src="https://maps.google.com/maps?q=Hospital+Road+Takum+Taraba+State+Nigeria&t=&z=15&ie=UTF8&iwloc=&output=embed"
                   width="100%"
                   height="250"
                   style={{ border: 0 }}

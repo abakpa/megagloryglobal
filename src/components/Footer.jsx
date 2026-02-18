@@ -38,11 +38,11 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <FaMapMarkerAlt className="text-accent mt-1 shrink-0" />
-                <span>Taraba State Office, Jalingo, Taraba State, Nigeria</span>
+                <span>No. 1 Hospital Road, Takum Taraba State, Nigeria</span>
               </li>
               <li className="flex items-start gap-2">
                 <FaMapMarkerAlt className="text-accent mt-1 shrink-0" />
-                <span>Imo State Office, Owerri, Imo State, Nigeria</span>
+                <span>No. 25 Timber Market Road, Naze Owerri North, Imo State, Nigeria</span>
               </li>
               <li className="flex items-center gap-2">
                 <FaPhone className="text-accent shrink-0" />
