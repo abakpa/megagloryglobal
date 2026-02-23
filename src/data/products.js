@@ -39,7 +39,7 @@ export const medicines = [
     id: 7,
     name: "Amoxil",
     description: "Antibiotic treatment for bacterial infections.",
-    image: "/images/medicines/Amoxil.jpeg",
+    image: "/images/medicines/result_0.jpeg",
   },
   {
     id: 8,
@@ -102,7 +102,7 @@ export const babyDiapers = [
     id: 8,
     name: "Maya Diapers",
     description: "Superior dryness with 25X absorption, blowout barrier and dual leak-guard protection.",
-    image: "/images/diapers/maya.jpg",
+    image: "/images/diapers/images.jpeg",
   },
   {
     id: 9,
@@ -186,7 +186,7 @@ export const categories = [
     id: 1,
     name: "Medicine",
     description: "Quality pharmaceutical products for your family's health needs.",
-    image: "/images/categories/medecine.jpg",
+    image: "/images/categories/medecine.jpeg",
     link: "/products/medicine",
   },
   {
@@ -200,7 +200,7 @@ export const categories = [
     id: 3,
     name: "Baby Foods",
     description: "Nutritious and delicious food options for babies and toddlers.",
-    image: "/images/categories/baby-foods.jpg",
+    image: "/images/categories/wmremove-transformed.jpeg",
     link: "/products/baby-foods",
   },
 ];
